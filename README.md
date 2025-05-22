@@ -18,6 +18,7 @@ Installation
 Clone this repository:
 
 git clone https://github.com/VulnusHunter/fetcher.git
+
 cd fetcher
 
 Install the required dependencies:
